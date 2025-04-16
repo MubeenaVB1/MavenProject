@@ -8,7 +8,7 @@ public class ExcelMain {
 		
 		String s=ExcelCode.readStringData(0, 1);
 		System.out.println(s);
-		String s1=ExcelCode.readIntegerData(1,1);
+		String s1=ExcelCode.readIntegerData(1,2);
 		System.out.println(s1);
 		
 
