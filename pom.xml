@@ -41,7 +41,7 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>src.ExcelMain</mainClass>
+<mainClass>excelreadpgm1.ExcelMain</mainClass>
 </manifest>
 </archive>
 </configuration>
